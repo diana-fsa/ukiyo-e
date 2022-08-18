@@ -4,7 +4,7 @@
 
 > Es poden classificar les obres d'art segons els artistes?
 
-Al fitxer `code-catalan.ipnyb` s'explora la base de dades i es crea un classificador d'imatges per arribar a una resposta.
+Al fitxer `code-catalan.ipnyb`[^1] s'explora la base de dades i es crea un classificador d'imatges per arribar a una resposta.
 
 El [dataset](https://www.kaggle.com/kengoichiki/the-metropolitan-museum-of-art-ukiyoe-dataset) tracta d'imatges "Ukiyo-e" ( gènere de gravats xilogràfics i pintures produïts al Japó entre els segles XVII i XX ) procedents del Metropolitan Museum of Art sota la llicència CC0.
 ![Image1](https://github.com/diana-fsa/ukiyo-e/blob/main/img/exp.png)
@@ -20,6 +20,8 @@ El classificador d'imatges es tracta d'una xarxa neuronal senzilla creada amb `T
 
 ![Image3](https://github.com/diana-fsa/ukiyo-e/blob/main/img/resultat.png)
 
+[^1]: Quan s'obre el fitxer, github retorna "The notebook took too long to render." i no ensenya el codi. Per visualitzar-lo podeu clicar l'enllaç següent [code-catalan.ipynb](https://nbviewer.org/github/diana-fsa/ukiyo-e/blob/main/code-catalan.ipynb)
+
 
 # Classifier of Japanese art
 
@@ -27,7 +29,7 @@ El classificador d'imatges es tracta d'una xarxa neuronal senzilla creada amb `T
 
 > Can we classify art pieces by their artists?
 
-In the file `code-english.ipnyb` there is first approximation of the data base and an image classifier is built to get to an answer.
+In the file `code-english.ipnyb`[^2] there is first approximation of the data base and an image classifier is built to get to an answer.
 
 The [dataset](https://www.kaggle.com/kengoichiki/the-metropolitan-museum-of-art-ukiyoe-dataset) has "Ukiyo-e" ( a genre of woodblock prints and paintings made in Japan from the 17th through 19th centuries ) images proceding from the Metropolitan Museum of Art under the CC0 licence.
 ![Image1](https://github.com/diana-fsa/ukiyo-e/blob/main/img/exp.png)
@@ -42,3 +44,5 @@ This notebook focuses on the 5 authors with more paintings: Utagawa Hiroshige, K
 The image classifier is a simple neural network created using `TensorFlow` (as it was one of the first projects in which I used neural networks for the first time). And the results were good.
 
 ![Image3](https://github.com/diana-fsa/ukiyo-e/blob/main/img/resultat.png)
+
+[^2]: When the file is opened, github returns "The notebook took too long to render." and it doesn't show the code. To see it you can click on the following link  [code-english.ipynb](https://nbviewer.org/github/diana-fsa/ukiyo-e/blob/main/code-english.ipynb)
