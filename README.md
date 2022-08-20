@@ -25,7 +25,7 @@ El classificador d'imatges es tracta d'una xarxa neuronal senzilla creada amb `T
 
 # Classifier of Japanese art
 
-*This jupyter notebook was a projecte created by @diana-fsa at third year of college in 2020.*
+*This jupyter notebook was a project created by @diana-fsa at third year of college in 2020.*
 
 > Can we classify art pieces by their artists?
 
